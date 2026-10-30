@@ -69,6 +69,7 @@ backend-lab/
 ├── index.html             可独立运行的完整学习网页
 ├── README.md              英文说明
 ├── README.zh-CN.md        中文说明
+├── LICENSE                MIT 开源许可证
 ├── scripts/               校验和测试入口
 └── tests/                 浏览器交互验证
 ```
@@ -89,3 +90,7 @@ node scripts/test.cjs
 ## 参考资料
 
 页面提供官方文档入口，包括 [MDN HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)、[FastAPI](https://fastapi.tiangolo.com/zh/tutorial/)、[PostgreSQL](https://www.postgresql.org/docs/current/tutorial.html)、[GNU Bash](https://www.gnu.org/software/bash/manual/)、[GNU tar](https://www.gnu.org/software/tar/manual/) 和 [Pro Git 中文](https://git-scm.com/book/zh/v2)。
+
+## 开源许可
+
+本项目采用 [MIT License](LICENSE) 开源许可证。

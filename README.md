@@ -69,6 +69,7 @@ backend-lab/
 ├── index.html             Complete standalone learning app
 ├── README.md              English documentation
 ├── README.zh-CN.md        Chinese documentation
+├── LICENSE                MIT license
 ├── scripts/               Validation and test runner
 └── tests/                 Browser interaction checks
 ```
@@ -89,3 +90,7 @@ Set `CHROME_BIN` if the browser executable is not discoverable. The browser chec
 ## Learning references
 
 The app links to primary documentation, including [MDN HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP), [FastAPI](https://fastapi.tiangolo.com/tutorial/), [PostgreSQL](https://www.postgresql.org/docs/current/tutorial.html), [GNU Bash](https://www.gnu.org/software/bash/manual/), [GNU tar](https://www.gnu.org/software/tar/manual/), and [Pro Git](https://git-scm.com/book/en/v2).
+
+## License
+
+Released under the [MIT License](LICENSE).
