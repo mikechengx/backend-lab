@@ -1,12 +1,12 @@
 # Backend Lab
 
-[English](README.md) | [简体中文](README.zh-CN.md)
+**[Try Backend Lab online](https://mikechengx.github.io/backend-lab/)** · [English](README.md) · [简体中文](README.zh-CN.md)
 
 A browser-based learning lab for understanding backend development through guided experiments. Start with business rules, follow a request through the application, and inspect how operations change data.
 
 ## Start learning
 
-Open **`index.html`** in a modern browser. No installation, account, API key, server, database, or build step is required.
+Use the [online lab](https://mikechengx.github.io/backend-lab/), or open **`index.html`** in a modern browser. No installation, account, API key, server, database, or build step is required.
 
 You can also serve the directory locally:
 

@@ -1,12 +1,12 @@
 # Backend Lab · 后端实验室
 
-[English](README.md) | [简体中文](README.zh-CN.md)
+**[直接打开后端实验室](https://mikechengx.github.io/backend-lab/)** · [English](README.md) · [简体中文](README.zh-CN.md)
 
 通过引导式实验学习后端开发：从业务规则出发，跟踪请求经过的处理层，观察数据变化，再练习排查和修复错误。
 
 ## 开始使用
 
-直接用现代浏览器打开 **`index.html`**。无需安装依赖、注册账户、配置密钥或启动真实的服务器和数据库，也没有构建步骤。
+直接访问[在线实验室](https://mikechengx.github.io/backend-lab/)，或用现代浏览器打开 **`index.html`**。无需安装依赖、注册账户、配置密钥或启动真实的服务器和数据库，也没有构建步骤。
 
 也可以在项目目录启动本地静态服务：
 
